@@ -1,3 +1,7 @@
+/*
+ * written by ljy
+ */
+
 package com.example.ljy.coolweather;
 
 import android.support.v7.app.AppCompatActivity;

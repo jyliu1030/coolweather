@@ -1,0 +1,13 @@
+<!--
+  ~ written by ljy
+  -->
+
+<litepal>
+    <dbname value="cool weather"/>
+    <version value ="1"/>
+    <list>
+        <mapping class="com.example.ljy.coolweather.db.Province"/>
+        <mapping class="com.example.ljy.coolweather.db.City"/>
+        <mapping class="com.example.ljy.coolweather.db.County"/>
+    </list>
+</litepal>
